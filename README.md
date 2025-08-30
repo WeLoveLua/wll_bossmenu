@@ -31,7 +31,7 @@ The boss menu includes the following sections:
 
 1. **Download the resource**
    ```bash
-   git clone https://github.com/your-username/wll_bossmenu.git
+   git clone https://github.com/WeLoveLua/wll_bossmenu.git
    ```
 
 2. **Install UI dependencies**
@@ -76,6 +76,7 @@ wll_bossmenu/
 │   │   └── ...
 │   └── public/
 │       └── wll.png         # Logo
+│   config.lua              # Configuration Lua
 └── fxmanifest.lua          # FiveM manifest
 ```
 
