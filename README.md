@@ -76,7 +76,6 @@ wll_bossmenu/
 │   │   └── ...
 │   └── public/
 │       └── wll.png         # Logo
-│   config.lua              # Configuration Lua
 └── fxmanifest.lua          # FiveM manifest
 ```
 
