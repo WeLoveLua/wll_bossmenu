@@ -89,7 +89,8 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
-dist
+# Remove dist exclusion for FiveM NUI
+# dist
 
 # Gatsby files
 .cache/
